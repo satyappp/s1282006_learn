@@ -4,7 +4,7 @@ with open('README.md', 'r') as fh:
     long_description = fh.read()
     
 setuptools.setup(
-    name='s1282006_learn',
+    name = 's1282006_learn',
     version='2023.07.31',
     author='Satyabrata Pahari',
     author_email='s1282006@u-aizu.ac.jp',
